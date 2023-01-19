@@ -1,2 +1,4 @@
 # EXAM_BPVG_lj2p2
-Full exam code, go to &lt;fill> to see the Blueprints as intended
+IMPORTANT
+^ ^ ^ ^ ^
+The most vital code of my project is inside this repository, copy and paste the text into < https://blueprintue.com/ > to see the real code, this is purely plaintext and will not do anything.
