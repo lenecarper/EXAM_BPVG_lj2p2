@@ -6,5 +6,7 @@ IMPORTANT
 The most vital code of my project is inside this repository.
 Copy and paste the full code into < https://blueprintue.com/ > to see the real code.
 
-This is purely plaintext and will not do anything.
+This is purely plaintext and will not do anything otherwise.
+
+Most animations are montages, so they didn't have any code to display here.
 </pre>
