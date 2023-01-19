@@ -3,7 +3,8 @@
 IMPORTANT
 ^ ^ ^ ^ ^
 
-The most vital code of my project is inside this repository, copy and paste the text into < https://blueprintue.com/ > to see the real code.
+The most vital code of my project is inside this repository.
+Copy and paste the full code into < https://blueprintue.com/ > to see the real code.
 
 This is purely plaintext and will not do anything.
 </pre>
